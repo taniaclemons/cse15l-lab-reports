@@ -5,7 +5,7 @@ cd
 ![Image](Screenshot 2023-10-03 at 5.35.03 PM.png)
 2. The working directory was /home when the command was run. Since a directory argument was given the new current working directory has been changed to that argument. This is not an error because the directory successfully changed to the given argument.
 
-![Image](Screenshot 2023-10-03 at 5.45.59 PM.png)
+![Image](Screenshot 2023-10-03 at 5.35.03 PM.png)
 3. The working directory was /home/lecture1 when the command was run. Since a file argument was given the current working directory remains the same. This is an error because the directory can't change to a file.
 
 
