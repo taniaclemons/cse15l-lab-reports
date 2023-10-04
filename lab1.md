@@ -12,5 +12,6 @@ ls
 
 cat
 1. The working directory was /home when the command was run. Since no arguments were given the terminal waits for an input. This is an error because it fails to concatenate anything and allow for no arguments.
-2. The working directory was /home when the command was run. Since a directory argument was given it doesn't print anything. This is an error because it couldn't concatenate a directory's files directly.
-3. The working directory was /home when the command was run. Since a file argument was given it printed the text within that file. This is not an error because it successfully printed that file's text.
+![Image](Screenshot 2023-10-03 at 5.44.17 PM.png)
+3. The working directory was /home when the command was run. Since a directory argument was given it doesn't print anything. This is an error because it couldn't concatenate a directory's files directly.
+4. The working directory was /home when the command was run. Since a file argument was given it printed the text within that file. This is not an error because it successfully printed that file's text.
