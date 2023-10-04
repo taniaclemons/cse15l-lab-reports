@@ -7,6 +7,7 @@ cd
 
 
 ls
+![Image](Screenshot 2023-10-03 at 5.36.35 PM.png)
 1. The working directory was /home when the command was run. Since no arguments were given it displayed the name of the file under the current working directory just being lecture1. This is not an error because lecture1 is the only folder in /home to list.
 
 ![Image](Screenshot 2023-10-03 at 5.38.01 PM.png)
