@@ -8,7 +8,8 @@ cd
 ls
 1. The working directory was /home when the command was run. Since no arguments were given it displayed the name of the file under the current working directory just being lecture1. This is not an error because lecture1 is the only folder in /home to list.
 2. The working directory was /home when the command was run. Since the lecture1 directory argument was given it listed the files under it. This is not an error because it successfully listed the files under the given argument.
-3. The working directory was /home/lecture1 when the command was run. Since the messages/en-us.txt file argument was given it only listed that file. This is not an error because there are no other files under the given argument.
+![Image](Screenshot 2023-10-03 at 5.40.24 PM.png)
+4. The working directory was /home/lecture1 when the command was run. Since the messages/en-us.txt file argument was given it only listed that file. This is not an error because there are no other files under the given argument.
 
 cat
 ![Image](Screenshot 2023-10-03 at 5.42.03 PM.png)
