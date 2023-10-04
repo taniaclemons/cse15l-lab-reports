@@ -27,4 +27,5 @@ cat
 ![Image](Screenshot 2023-10-03 at 5.44.17 PM.png)
 2. The working directory was /home when the command was run. Since a directory argument was given it doesn't print anything. This is an error because it couldn't concatenate a directory's files directly.
 
+![Image](Screenshot 2023-10-03 at 5.45.59 PM.png)
 3. The working directory was /home when the command was run. Since a file argument was given it printed the text within that file. This is not an error because it successfully printed that file's text.
