@@ -2,7 +2,7 @@ cd
 ![Image](Screenshot 2023-10-03 at 5.26.04 PM.png)
 1. The working directory was /home when the command was run. Since that was the case the output was given as the previous/current working directory since no arguments were given to change it. This is not an error because the directory wasn't instructed to change to a given directory.
 
-![Image](Screenshot 2023-10-03 at 5.35.03 PM.png)
+![Image](Screenshot 2023-10-03 at 5.30.43 PM.png)
 2. The working directory was /home when the command was run. Since a directory argument was given the new current working directory has been changed to that argument. This is not an error because the directory successfully changed to the given argument.
 
 ![Image](Screenshot 2023-10-03 at 5.35.03 PM.png)
